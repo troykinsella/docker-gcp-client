@@ -28,4 +28,3 @@ RUN set -eux; \
     mv linux-amd64/helm /usr/local/bin; \
     chmod +x /usr/local/bin/helm; \
     rm -rf /tmp/*;
-
